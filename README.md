@@ -34,7 +34,7 @@ crypto-app/
      __tests__
             filterCrypto.test.ts
             
-Los demas arhcivos son parte de las dependencias instalas de para el desarrollo del proyecto que vienen por defecto
+Los demas arhcivos son parte de las dependencias instalas de para el desarrollo del proyecto que vienen por defecto, Esta es una arquitectura modular y estructura OOP para un mejor rendimiento.
 
 -----------------------------------------||-----------------------------------------------------------------
 Funcionalidades principales
